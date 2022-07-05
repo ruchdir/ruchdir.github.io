@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/ruchdir"><img src="https://api.daily.dev/devcards/540318d92e334ab3be11ff49ce92ae77.png?r=ckb" width="400" alt="RuchDi's Dev Card"/></a>
+<a href="https://app.daily.dev/ruchdir"><img src="https://api.daily.dev/devcards/540318d92e334ab3be11ff49ce92ae77.png?r=0qn" width="400" alt="RuchDi's Dev Card"/></a>
 
 - 👋 Hi, I’m RuchDi
 
